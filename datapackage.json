@@ -334,7 +334,7 @@
       "hash": "6c5422a65ea2371504eb89f3cb7a4403",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/nl-netherlands-2007-2013-esf/concat.csv",
       "schema": {
         "fields": [
           {
