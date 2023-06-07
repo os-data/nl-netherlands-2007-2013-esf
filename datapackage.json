@@ -12,6 +12,11 @@
     "nuts_code": "NL",
     "region": "NEDERLAND"
   },
+  "countryCode": "NL",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2013-12-31"
+  },
   "hash": "dd49b82f3f04a00fc9a8746242221125",
   "language": "es",
   "model": {
